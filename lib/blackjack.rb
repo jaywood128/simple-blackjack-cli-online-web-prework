@@ -44,7 +44,7 @@ def hit?(card_total)
     deal_card + card_total
 
   else
-    sum_total
+    card_total
   end
 end
 # code hit? here
