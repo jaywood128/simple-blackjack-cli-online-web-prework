@@ -65,7 +65,7 @@ sum_total = deal_card + deal_card
     hit?
     display_card_total
    if sum_total > 21
-   end_game
+     end_game
  end
  end
  end
