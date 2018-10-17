@@ -66,7 +66,7 @@ def runner(sum_total)
   if sum_total > 21
 
    end
-   end_game(display_card_total)
+   end_game
   end
 end
   # code runner here
