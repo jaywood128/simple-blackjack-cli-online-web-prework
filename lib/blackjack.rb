@@ -57,8 +57,8 @@ end
 # get every test to pass before coding runner below #
 #####################################################
 
-def runner
-sum_total = deal_card + deal_card
+def runner(sum_total)
+
   until sum_total > 21
     welcome
     initial_round
