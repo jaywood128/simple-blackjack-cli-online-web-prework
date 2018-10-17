@@ -58,15 +58,15 @@ end
 #####################################################
 
 def runner(sum_total)
-
+sum_total = deal_card + deal_card
   until sum_total > 21
     welcome
     initial_round
     hit?
     display_card_total
-   if sum_total > 21
+  if sum_total > 21
      end_game
- end
- end
- end
+   end
+  end
+end
   # code runner here
