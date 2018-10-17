@@ -68,5 +68,5 @@ def runner(sum_total)
    end
    end_game
   end
-
+end
   # code runner here
